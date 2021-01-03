@@ -16,6 +16,20 @@ The following is useful step by step guide on how to open and run a jupyter note
 
 The repository for the assignment and all the files are located here https://github.com/brendantipp/sem2_prog_data_analysis_project
 
+#### Contents of the Repository
+
+###### Files
+
+- product_analysis.ipynb (Jupyter notebook for Project)
+- analysis.csv (the dataset used for my analysis.)
+- REAME.md (Details of the project, how to run the files, details of the repository)
+- licence (licence used)
+
+###### Folders
+- Images Folder - contains images used in the jupyter notebook
+- Further testing - contaings files used for ongoing work on the proejct (not part of submission)
+
+
 #### The Task relating to the contents in the repository
 
 Project task to create a sythesised Dataset simulating a real world phenomenon.
@@ -28,10 +42,6 @@ I have picked on a real world phenomenon in my own professional life. This is wh
 - Jupyter Notebook - www.jupyter.org
 - cmder - www.cmder.net
 - Github www.github.com
-
-
-#### Libraires/Packages used and imported
-I will be using the numpy.random package from python and I will also be utilising the Matplotib and Seaborn packages for better visualisation using graphs. These packages/libraries are imported into my Jupyter notebook and the code to do this is documented in my jupyter notebook.
 
 
 ## Index of Contents contained in  the Jupyter Notebook
